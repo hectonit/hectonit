@@ -13,6 +13,4 @@
 ### My socials:
 
 ![Discord](https://img.shields.io/badge/Discord:%20Hectonit%239443-151515?style=flat-square&logo=discord)
-[![Twitter](https://img.shields.io/badge/Twitter-151515?style=flat-square&logo=twitter)](https://twitter.com/Tim69842871)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-151515?style=flat-square&logo=vk)](https://vk.com/hectonit)
-[![Reddit](https://img.shields.io/badge/Reddit-151515?style=flat-square&logo=reddit)](https://www.reddit.com/user/hectonit)
+[![Telegram](https://shields.io/badge/Telegram-151515?style=flat-square&logo=telegram)](https://t.me/hectonit)
