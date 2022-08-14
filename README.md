@@ -7,7 +7,7 @@
 ### My scills:
 
 ![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-151515?style=flat-square&logo=c "a little bit")
+![Rust](https://img.shields.io/badge/Rust-151515?style=flat-square&logo=rust)
 ![Git](https://img.shields.io/badge/Git-151515?style=flat-square&logo=git)
 
 ### My socials:
